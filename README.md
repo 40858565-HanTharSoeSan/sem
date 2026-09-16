@@ -1,2 +1,2 @@
-ENU Exercise.
-Software Engineering Methodss
+ENU Exercises.
+Software Engineering Methods.
